@@ -25,7 +25,6 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="F4" />
   </action>
-  <action id="EditorDownWithSelection" />
   <action id="EditorIndentSelection">
     <keyboard-shortcut first-keystroke="TAB" />
     <keyboard-shortcut first-keystroke="meta CLOSE_BRACKET" />
