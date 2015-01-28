@@ -12,4 +12,3 @@ Copy the xml file into your keymaps directory.
 **Windows and *NIX systems:** <User home>/.PyCharm <xx>/config/keymaps
 
 **Macintosh systems:** ~/Library/Preferences/.PyCharm <xx>/keymaps/
-Each keymap file contains only differences between the current and the parent keymaps.
