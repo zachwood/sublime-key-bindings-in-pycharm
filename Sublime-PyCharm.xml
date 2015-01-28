@@ -25,6 +25,9 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="F4" />
   </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta V" />
+  </action>
   <action id="EditorIndentSelection">
     <keyboard-shortcut first-keystroke="TAB" />
     <keyboard-shortcut first-keystroke="meta CLOSE_BRACKET" />
@@ -49,6 +52,7 @@
     <keyboard-shortcut first-keystroke="shift TAB" />
     <keyboard-shortcut first-keystroke="meta OPEN_BRACKET" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt RIGHT" />
     <mouse-shortcut keystroke="button5" />
@@ -57,7 +61,12 @@
     <keyboard-shortcut first-keystroke="meta T" />
   </action>
   <action id="GotoRelated" />
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
   <action id="IncrementWindowHeight" />
+  <action id="IncrementalSearch">
+    <keyboard-shortcut first-keystroke="meta I" />
+  </action>
   <action id="Jdbc.OpenTableEditor">
     <keyboard-shortcut first-keystroke="F4" />
   </action>
@@ -67,11 +76,19 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="control meta UP" />
   </action>
+  <action id="ParameterInfo" />
+  <action id="PasteMultiple" />
   <action id="RemoteHostView.EditSource">
     <keyboard-shortcut first-keystroke="F4" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta T" />
+  </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta P" />
+  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt HOME" />
   </action>

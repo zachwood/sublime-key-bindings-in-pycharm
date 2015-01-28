@@ -3,3 +3,13 @@
 I'm manually swapping out PyCharm keymap to be more like Sublime's.
 
 It's based on the "Mac OS X 10.5+" keymap in PyCharm and has only been tested on OS X.
+
+
+###Installation
+
+Copy the xml file into your keymaps directory.
+
+**Windows and *NIX systems:** <User home>/.PyCharm <xx>/config/keymaps
+
+**Macintosh systems:** ~/Library/Preferences/.PyCharm <xx>/keymaps/
+Each keymap file contains only differences between the current and the parent keymaps.
