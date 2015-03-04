@@ -11,4 +11,4 @@ Copy the xml file into your keymaps directory.
 
 **Windows and *NIX systems:** <User home>/.PyCharm <xx>/config/keymaps
 
-**Macintosh systems:** ~/Library/Preferences/.PyCharm <xx>/keymaps/
+**Macintosh systems:** ~/Library/Preferences/PyCharm40/keymaps
