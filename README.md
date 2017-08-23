@@ -9,6 +9,7 @@ It's based on the "Mac OS X 10.5+" keymap in PyCharm and has only been tested on
 
 Copy the xml file into your keymaps directory.
 
-**Windows and *NIX systems:** <User home>/.PyCharm <xx>/config/keymaps
+
+**Windows and \*NIX systems:** <User home>/.PyCharm <xx>/config/keymaps
 
 **Macintosh systems:** ~/Library/Preferences/PyCharm40/keymaps
