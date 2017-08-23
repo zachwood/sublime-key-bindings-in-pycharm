@@ -57,6 +57,9 @@
     <keyboard-shortcut first-keystroke="meta alt RIGHT" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta T" />
   </action>
